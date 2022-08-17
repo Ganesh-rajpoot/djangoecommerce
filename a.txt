@@ -1,1 +1,1 @@
-monty    :wq `
+monty    :w  :q `
